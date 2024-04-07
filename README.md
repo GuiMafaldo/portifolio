@@ -1,46 +1,55 @@
-# Getting Started with Create React App
+<div>
+  <h1>Meu Portifolio</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3>Depois do clone Instale as dependencias do projeto para rodar na sua maquina</h3>
+  <p>Com npm install</p>
 
-## Available Scripts
+  <h3>Apos a instalação npm start para ver o projeto no navegador</h3>
+<p>E ira renderizar a tela inicial</p>
 
-In the project directory, you can run:
+##
 
-### `npm start`
+![imagem1](https://github.com/GuiMafaldo/portifolio/assets/148646202/721834d3-76ab-4989-bc6a-7a604dd8ee40)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3>Essa e a tela de projetos pessoais desenvolvidos!</h3> <br>
 
-### `npm run build`
+<p>Voce pode adicionar os seus projetos na ordem  que preferir e fazer as alterações que quiser e achar necessarias!</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![imagem2](https://github.com/GuiMafaldo/portifolio/assets/148646202/415cddaa-fec7-4e3c-a6a1-4ad5b09aa814)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+##
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Aqui e a parte de renderizar o docx | pdf, seu curriculo eu nao consegui fazer entao puxei uma imagem statica como quebra galho!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+##
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![imagem3](https://github.com/GuiMafaldo/portifolio/assets/148646202/5f6aa412-4e51-4111-9b9a-cdecaafc8748)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### E por ultimo e não mais importante a parte de Formação!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##
+<h4>Criei cards  com pouca estililzação mas bem completo.</h4>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>Aqui tambem você pode estilizar da maneira que quiser eu gostei e queria dessa forma!!</p>
+
+![imagem4](https://github.com/GuiMafaldo/portifolio/assets/148646202/e9e5dff0-e79a-4343-9edb-2958dbd28307)
+
+##
+
+  <h3>Ferramentas de desenvolvimento ultilizadas:</h3>
+  ##
+
+  ### ReactJs | Typescript | styled-components para estilização do projeto.
+  em algumas partes usei display grid, em outras flex.
+  esse projeto foi desafiador pois tive que colocar em pratica tudo que ja  aprendi com 9 meses de estudos de desenvolvimento Front-End
+  sei que estou no começo mas com esse tipo de projeto consigo perceber que consegui absorver quase todo conteudo que estudei ate hoje,
+  ainda tem alguns conceitos que preciso estudar e praticar mais, mas a jornada e longa e estou só no começo.
+</div>
+
