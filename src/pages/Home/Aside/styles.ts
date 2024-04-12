@@ -21,17 +21,18 @@ export const AsideBar = styled.div`
     gap: 20px;
 
 
-    @media (max-width: 767px) {
+    @media(min-width: 300px) and (max-width: 767px) {
         display: flex;
         flex-direction: row;
-        margin-left: 190px;
+        margin-left: 196px;
         margin-top: 100px;
     }
 `
 export const LogoAside = styled.img`
     width: 40px;
 
-    @media(max-width: 767px) {
-        width: 30px;
+    @media (min-width: 300px) and (max-width: 767px) {
+        width: 28px;
+        positon: static;
     }
 `
