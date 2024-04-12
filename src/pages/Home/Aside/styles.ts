@@ -21,11 +21,11 @@ export const AsideBar = styled.div`
     gap: 20px;
 
 
-    @media(min-width: 300px) and (max-width: 767px) {
+    @media(min-width: 320px) and (max-width: 767px) {
         display: flex;
-        flex-direction: row;
-        margin-left: 196px;
-        margin-top: 100px;
+        flex-direction: column;
+        margin: 0 auto;
+        position: fixed;
     }
 `
 export const LogoAside = styled.img`
@@ -33,6 +33,5 @@ export const LogoAside = styled.img`
 
     @media (min-width: 300px) and (max-width: 767px) {
         width: 28px;
-        positon: static;
     }
 `

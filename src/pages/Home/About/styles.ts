@@ -10,7 +10,7 @@ export const Container = styled.div`
 
     @media (max-width: 767px) {
         display: flex;
-    }
+
     @media (min-width: 768px) and (max-width: 1024px){
         display: flex;
     }
@@ -38,6 +38,11 @@ export const ContentAbout = styled.div`
         grid-template-columns: 1fr;
         margin: 0 auto;
         margin-top: 60px;
+        
+        span {
+            margin-left: 40px;
+        }
+    }
     }
     @media (min-width: 768px) and (max-width: 1024px){
         display: grid;
@@ -50,11 +55,12 @@ export const TitleName = styled.h2`
     font-size: 40px;
     font-family: Righteous;
     font-weight: bold;
-    margin-bottom: 0;
+    margin: 0 auto;
     color: #696969;
 
     @media (max-width: 767px) {
-        margin: 0 auto;
+        margin: 0;
+        margin-left: 10px;
         font-size: 28px;
     }
 `
