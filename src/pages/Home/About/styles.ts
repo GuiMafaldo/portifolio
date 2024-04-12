@@ -32,12 +32,12 @@ export const ContentAbout = styled.div`
             margin-left: 20px;
         }
     }
-
-    @media (max-width: 767px) {
+    @media (min-width: 420px) and (max-width: 767px) {
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr ;
         margin: 0 auto;
         margin-top: 60px;
+        margin-left: 40px;
         
         span {
             margin-left: 40px;
@@ -98,7 +98,7 @@ export const ImageMenu = styled.img`
     @media (max-width: 767px) {
         width: 160px;
         margin-left: 40px;
-        margin-top: -30px;
+        margin-top: 40px;
         margin-right: 20px;
     }
     @media (min-width: 768px) and (max-width: 1024px){

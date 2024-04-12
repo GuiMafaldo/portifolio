@@ -17,7 +17,7 @@ const AboutMe = () => {
                     <IconsList src="/imagens/vue.svg" alt="" />
                 </Paragraph>
             </ContentAbout>
-            <ImageMenu src="/imagens/newImage3.jpg" alt="" />
+            <ImageMenu src="/imagens/eu.jpg" alt="" />
         </Container>
 
     )
