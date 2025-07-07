@@ -21,7 +21,7 @@ export default function About() {
             </CardHeader>
             <CardContent>
               <p className="mb-4">
-                Com mais de 1 ano e 5 meses de experiência em desenvolvimento web, 
+                Com mais de 2 ano e 7 meses de experiência em desenvolvimento web, 
                 especializei-me na criação de aplicações web robustas e escaláveis. 
                 Minha paixão por tecnologia e inovação me impulsiona a estar sempre 
                 atualizado com as mais recentes tendências e melhores práticas do mercado.
@@ -37,7 +37,7 @@ export default function About() {
           <Card>
             <CardHeader>
               <CardTitle>Hard Skills</CardTitle>
-              <CardDescription>Tecnologias que domino</CardDescription>
+              <CardDescription>Tecnologias que ja trabalhei</CardDescription>
             </CardHeader>
             <CardContent>
               <div className="flex flex-wrap gap-2">
