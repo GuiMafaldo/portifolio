@@ -8,7 +8,7 @@ import { Label } from '@/components/ui/label'
 import { Textarea } from '@/components/ui/textarea'
 import { useToast } from '@/components/ui/use-toast'
 import emailjs from '@emailjs/browser'
-import { tuple, z } from 'zod'
+import { z } from 'zod'
 
 export default function Contato() {
   const [isSubmitting, setIsSubmitting] = useState(false)
